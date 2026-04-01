@@ -31,8 +31,10 @@ The modest fashion industry is one of the fastest-growing segments in global app
 | CAGR | 5.5% |
 | % of total global fashion spend | ~10% |
 | Luxury modest segment | $30+ billion |
+| Online sales share | 45% of all modest fashion purchases |
+| Non-Muslim buyers (U.S. + Europe) | **35%** of total buyers |
 
-**Key Insight:** Modest fashion is no longer niche. It spans Muslim, conservative Christian, Orthodox Jewish, and mainstream women who simply prefer elegant, non-objectifying clothing. This positions The Modestee to appeal far beyond a single religious demographic.
+**Key Insight:** Modest fashion is no longer niche. It spans Muslim, conservative Christian, Orthodox Jewish, and mainstream women who simply prefer elegant, non-objectifying clothing. **35% of buyers in the U.S. and Europe are non-Muslim** (McKinsey, 2024) — meaning The Modestee's addressable market is far larger than a single religious demographic. This is one of the most important growth levers available.
 
 ---
 
@@ -234,12 +236,26 @@ Platform recommendation: **Klaviyo** (best for Shopify-based modest fashion bran
 
 | Date | Campaign |
 |------|----------|
-| Ramadan / Eid | "Eid Ready — New Arrivals for the Season" — 3-email series |
+| Ramadan / Eid | "Eid Ready — New Arrivals for the Season" — full 5-email sequence (see below) |
 | Spring/Summer Launch | "New Season, New Mod" — 2 emails |
 | Back to School (Aug) | "Modest Back to School Looks" — 1–2 emails |
 | Black Friday / Cyber Monday | Full 5-day campaign (teaser → launch → mid-sale → last day → final hours) |
 | Christmas/Hanukkah | "Gift a Mod" gift guide email |
 | New Year | "New Year, New Wardrobe" capsule collection email |
+
+#### Ramadan / Eid Campaign — Detailed Sequence
+
+> **Ramadan is your Black Friday.** Plan it with the same rigor.
+
+| Email | Timing | Subject Line | Timing of Send |
+|-------|--------|--------------|----------------|
+| #1 | 3 weeks before Ramadan | "Eid is coming — shop early, beat the rush" | Normal daytime |
+| #2 | Week 1 of Ramadan | "Double points all Ramadan — our gift to you" | **Pre-dawn (Suhoor)** or **post-sunset (Iftar)** |
+| #3 | Week 2 of Ramadan | "Style your Eid look now — ships before the celebration" | Post-sunset |
+| #4 | Last 10 days | "Early Eid — shop our exclusive pre-order drop" | Pre-dawn |
+| #5 | Eid day +1 | "Eid Mubarak — a thank you gift inside" | Morning |
+
+> **Key tactic:** Send Ramadan emails at **pre-dawn (Suhoor)** or **post-sunset (Iftar)** hours when Muslim consumers are most active — this alone can increase open rates significantly compared to standard send times.
 
 ---
 
@@ -258,13 +274,15 @@ Platform recommendation: **Klaviyo** (best for Shopify-based modest fashion bran
 
 ### Platform Priority
 
-| Platform | Priority | Why |
-|----------|----------|-----|
-| **Instagram** | Primary | Visual-first, strong modest fashion community, shoppable posts |
-| **TikTok** | Primary | 122% YoY growth in fashion MIV; reaches younger shoppers (18–30); viral potential |
-| **Pinterest** | Secondary | High purchase intent; great for evergreen style inspiration content |
-| **YouTube** | Secondary | Longer-form styling, brand story, community building |
-| **Facebook** | Tertiary | Retargeting ads + Facebook Groups for community |
+| Platform | Priority | Engagement Rate | Why |
+|----------|----------|----------------|-----|
+| **TikTok** | Primary | **3.70%** (up 49% YoY) | #1 discovery channel; 122% YoY MIV growth in fashion |
+| **Instagram** | Primary | 0.48% (2.08% for Reels) | Brand validation + community; where customers go to verify you're real |
+| **Pinterest** | Secondary | High save/click | High purchase intent; evergreen style inspiration |
+| **YouTube** | Secondary | Steady 15% YoY growth | Longer-form styling, hauls, brand story |
+| **Facebook** | Tertiary | Lower but relevant | Community groups (ages 30–50); retargeting ads |
+
+> **Critical insight:** TikTok's 3.70% engagement vs Instagram's 0.48% means TikTok delivers roughly **7–8x the organic reach per post**. One viral OOTD or styling video on TikTok can drive more traffic than months of Instagram posts.
 
 ### Content Pillars (Repeat Weekly)
 
@@ -288,11 +306,17 @@ TikTok is the highest opportunity channel for growth in 2026:
 
 ### Influencer Strategy
 
-Focus on **micro-influencers (10K–100K followers)** over celebrities:
-- Higher engagement rates (3–8% vs 1–2% for macro)
-- More trusted by the modest fashion community
-- More affordable — gifting + small commission works well at this stage
-- Look for influencers in: modest Muslim fashion, conservative Christian style, clean girl aesthetic, modest modest professional wear
+**Prioritize nano-influencers (1K–10K) and micro-influencers (10K–100K)** over celebrities:
+
+| Tier | Followers | Why It Works |
+|------|-----------|-------------|
+| **Nano** (highest priority) | 1K–10K | 39% revenue share of fashion influencer marketing in 2024; best engagement, most authentic, lowest cost, most filtered audience |
+| **Micro** | 10K–100K | High community trust; niche authority; affordable gifting + commission model |
+| **Macro/Celebrity** | 100K+ | Awareness only — avoid unless brand is ready for scale |
+
+- Long-term ambassador relationships > one-off posts (co-created collections outperform transactional posts)
+- 65% of consumers trust less-polished, authentic creator content over highly produced sponsorships
+- Look for creators in: modest Muslim fashion, conservative Christian style, clean girl aesthetic, professional modest wear, LDS/Mormon style
 
 **Affiliate/Ambassador Program:**
 - Offer 10–15% commission
@@ -306,6 +330,12 @@ Focus on **micro-influencers (10K–100K followers)** over celebrities:
 
 ### The Loyalty Program: "Mod Club"
 
+**The data case for building this early:**
+- Loyalty members spend **59% more** than non-members
+- Repeat purchase rates are **64% higher** among loyalty members
+- 32% of total revenue for strong loyalty brands comes from loyal customers
+- During economic uncertainty, revenue from loyalty members is **3x more stable**
+
 **Tiers:**
 
 | Tier | Spend Threshold | Benefits |
@@ -313,6 +343,12 @@ Focus on **micro-influencers (10K–100K followers)** over celebrities:
 | **Mod** (Entry) | First purchase | 10% off next order, early access to sales |
 | **Mod Elite** | $250/year | Free shipping always, exclusive colorways, birthday gift |
 | **Mod Icon** | $500/year | First access to new collections, personal stylist chat, 15% off always |
+
+**Points structure:**
+- 1 point per $1 spent
+- 50 points for leaving a review
+- 100 points for referring a friend who purchases
+- 25 points for sharing a styled photo with your hashtag
 
 ### Retention Tactics That Work for This Demographic
 
@@ -344,12 +380,13 @@ Focus on **micro-influencers (10K–100K followers)** over celebrities:
 
 | Brand | What They Do Well | What The Modestee Can Do Better |
 |-------|-------------------|----------------------------------|
-| **Modanisa** | Global scale, 140-country reach, Modest Fashion Week | More personal, curated brand story vs. marketplace feel |
-| **Haute Hijab** | Premium positioning, strong Muslim community trust | Broader reach beyond hijab-wearing customer |
-| **Inherit Clothing Co.** | Long denim skirts, conservative Christian market | More modern, trend-forward styling |
-| **Love Olive Co.** | Customer service reputation, friendly brand voice | Scale and e-commerce sophistication |
-| **Sweet Salt Clothing** | Affordable, accessible price point | Brand depth and loyalty programs |
-| **Covered Bliss** | Content marketing — blog, education | Product breadth |
+| **Modanisa** | 140 countries, 300–600 influencers/month, $150K+ new revenue in 6 months via partner marketing, Halima Aden ambassador | More personal, curated brand story vs. marketplace feel |
+| **Haute Hijab** | Premium positioning, deep Muslim-American community trust, category-defining in hijabs | Broader reach beyond hijab-wearing customer |
+| **Verona Collection** | First modest brand in major U.S. department stores — mainstream validation | Deeper community and loyalty program |
+| **Aab Collection** | Premium UK brand, sustainable fabrics, scarcity-driven small batches, editorial aesthetic | Broader U.S./NA market reach |
+| **SHUKR** | Proven cross-faith appeal (Muslim, Christian, Jewish customers) without alienating any group | Modern aesthetic and e-commerce UX |
+| **Inherit Clothing Co.** | Conservative Christian market, long denim skirts | More modern, trend-forward styling |
+| **Vetta Capsule** | Capsule wardrobe model, sustainability, crowdfunded $30K in 5 days, tracks repeat purchase rate as #1 KPI | Modest fashion-specific positioning |
 
 ### The Modestee's Competitive Advantage
 
