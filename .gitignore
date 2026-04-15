@@ -2,6 +2,8 @@ node_modules/
 client/node_modules/
 server/node_modules/
 server/db/crm.sqlite
+server/db/crm.sqlite-shm
+server/db/crm.sqlite-wal
 server/uploads/
 client/dist/
 .env
