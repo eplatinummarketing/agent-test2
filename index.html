@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>Slapshot — NHL Hockey</title>
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+  <!-- ===== Menu ===== -->
+  <div id="menu">
+    <div class="title-wrap">
+      <div class="title">🏒 SLAPSHOT</div>
+      <div class="subtitle">NHL Hockey</div>
+    </div>
+
+    <div class="vs-bar">
+      <div class="vs-card" id="vsHomeCard">
+        <div class="role">Home</div>
+        <div class="team-name" id="vsHome">Boston Bruins</div>
+      </div>
+      <div class="vs-mid">VS</div>
+      <div class="vs-card" id="vsAwayCard">
+        <div class="role">Away</div>
+        <div class="team-name" id="vsAway">Toronto Maple Leafs</div>
+      </div>
+    </div>
+
+    <div class="panels">
+      <div class="panel">
+        <h3>Home Team</h3>
+        <div class="team-grid" id="homeGrid"></div>
+      </div>
+      <div class="panel">
+        <h3>Away Team</h3>
+        <div class="team-grid" id="awayGrid"></div>
+      </div>
+    </div>
+
+    <div class="opts">
+      <div>
+        <div class="opt-label">You Control</div>
+        <div class="seg">
+          <button data-side-btn="home" class="active">Home</button>
+          <button data-side-btn="away">Away</button>
+        </div>
+      </div>
+      <div>
+        <div class="opt-label">Difficulty</div>
+        <div class="seg">
+          <button data-diff="Rookie">Rookie</button>
+          <button data-diff="Pro" class="active">Pro</button>
+          <button data-diff="AllStar">All-Star</button>
+          <button data-diff="Legend">Legend</button>
+        </div>
+      </div>
+
+      <div class="btn-row">
+        <button class="btn btn-ghost" id="randomBtn">🎲 Random Matchup</button>
+        <button class="btn btn-primary" id="startBtn">▶ Drop the Puck</button>
+      </div>
+
+      <div class="hint">
+        <b>Move</b> WASD / Arrows &nbsp;•&nbsp; <b>Shoot</b> hold SPACE, release to fire &nbsp;•&nbsp;
+        <b>Pass</b> SHIFT &nbsp;•&nbsp; <b>Body Check</b> C &nbsp;•&nbsp; <b>Switch Player</b> L &nbsp;•&nbsp; <b>Pause</b> P<br />
+        3 periods &nbsp;•&nbsp; sudden-death overtime &nbsp;•&nbsp; control auto-switches to the player nearest the puck
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== Game ===== -->
+  <div id="gameWrap" class="hidden">
+    <button id="backBtn">‹ Menu</button>
+    <canvas id="game"></canvas>
+  </div>
+
+  <!-- scripts (classic, ordered) -->
+  <script src="src/util.js"></script>
+  <script src="src/teams.js"></script>
+  <script src="src/audio.js"></script>
+  <script src="src/input.js"></script>
+  <script src="src/rink.js"></script>
+  <script src="src/entities.js"></script>
+  <script src="src/ai.js"></script>
+  <script src="src/render.js"></script>
+  <script src="src/game.js"></script>
+  <script src="src/hud.js"></script>
+  <script src="src/main.js"></script>
+</body>
+</html>
